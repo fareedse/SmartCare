@@ -1,0 +1,13 @@
+streamlit // GUI 
+pandas     // cleaning Preprocessing  
+numpy     // graphs
+matplotlib  // barchart 
+plotly   
+sqlalchemy  //database
+
+
+
+
+
+
+
